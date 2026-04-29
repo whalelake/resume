@@ -4,9 +4,8 @@
 
 **AI Orchestration Engineer · AX Product Lead**
 
-📍 제주 제주시 첨단로동길  |  📧 [izine@naver.com](mailto:izine@naver.com)  |  📞 010-8688-7668  |  🐙 [github.com/whalelake](https://github.com/whalelake)
+   📧 [whalelake1981@gmail.com](mailto:whalelake1981@gmail.com  |  📞 010-8688-7668  |  🐙 [github.com/whalelake](https://github.com/whalelake)
 
-**지원 직무:** KS Quantum Jarvis · AI Engineer / AI Orchestration Engineer
 
 ---
 
@@ -19,7 +18,7 @@
 
 ## 🧭 PROFILE
 
-KS 공고의 핵심인 **"AI + 자동화 + 현업 프로세스 전환"** 에 맞춰, 단일 모델 개발보다 업무 흐름·데이터·권한/승인·검증 루프를 먼저 정의하고 LLM, API, RAG, Tool Calling, 자동화 워크플로우를 운영 가능한 내부 시스템으로 연결하는 데 강점이 있습니다.
+ **"AI + 자동화 + 현업 프로세스 전환"** 에 맞춰, 단일 모델 개발보다 업무 흐름·데이터·권한/승인·검증 루프를 먼저 정의하고 LLM, API, RAG, Tool Calling, 자동화 워크플로우를 운영 가능한 내부 시스템으로 연결하는 데 강점이 있습니다.
 
 ---
 
