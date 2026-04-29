@@ -4,7 +4,7 @@
 
 **AI Orchestration Engineer · AX Product Lead**
 
-   📧 [whalelake1981@gmail.com](mailto:whalelake1981@gmail.com  |  📞 010-8688-7668  |  🐙 [github.com/whalelake](https://github.com/whalelake)
+   📧 [whalelake1981@gmail.com](mailto:whalelake1981@gmail.com)  |  📞 010-8688-7668  |  🐙 [github.com/whalelake](https://github.com/whalelake)
 
 
 ---
