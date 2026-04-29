@@ -9,7 +9,6 @@
 <a href="mailto:whalelake1981@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-whalelake1981%40gmail.com-0B5CAD?style=flat-square&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/whalelake"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-whalelake-172033?style=flat-square&logo=github&logoColor=white"></a>
 <img alt="Location" src="https://img.shields.io/badge/Location-Jeju-14786F?style=flat-square">
-<img alt="Role" src="https://img.shields.io/badge/Target-KS%20Quantum%20Jarvis-0B5CAD?style=flat-square">
 
 </div>
 
