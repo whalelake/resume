@@ -1,6 +1,6 @@
 <div align="center">
 
-# 여성혁 · Yeo Sunghyeok
+# 여성혁 · Yeo SeongHyeok
 
 ### AI Orchestration Engineer · AX Product Lead
 
